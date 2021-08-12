@@ -154,7 +154,9 @@
 	}
 	
   </style>
-  <script>function copyBlueprintCode(button){var c=button.parentNode.children[0];c.style.display="block";c.select();document.execCommand("copy");c.style.display="none";}</script>
+  <script>function copyBlueprintCode(button){
+		button.innerHTML = "Copied";
+		setTimeout(() => {button.innerHTML = "Copy Code"}, 5000);var c=button.parentNode.children[0];c.style.display="block";c.select();document.execCommand("copy");c.style.display="none";}</script>
 </head>
 <body>
   <div id="app"></div>
