@@ -21,6 +21,7 @@ This section covers how to add a third party library Java to your project.
 	}
 </insert>
 ```
+
 #### Adding the Dependency
 1. Open `<Project_Dir>/JBI/Android.UPL.xml` in your favorite text editor.
 2. Find the `<buildGradleAdditions>` tag.
