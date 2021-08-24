@@ -1,6 +1,7 @@
 - Java Blueprint Interface
   - [Plugin details](/)
   - [Get Started](/getstarted)
+  - [External Libraries](/externallibraries)
 - Blueprints Examples
   - [Get the Device ID](/deviceuid)
   - [Show a Toast](/showtoast)
