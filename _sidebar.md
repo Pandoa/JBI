@@ -6,6 +6,7 @@
   - [Get the Device ID](/deviceuid)
   - [Show a Toast](/showtoast)
   - [Show a Dialog](/showdialog)
+  - [Launch an Application](/startapp)
 - Support
   - [Frequently Asked Questions](/frequentlyaskedquestions)
   - [Troubleshooting](/troubleshooting)
